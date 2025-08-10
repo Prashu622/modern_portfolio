@@ -288,13 +288,14 @@ export const SkillsInfo = [
 
   // ...existing code...
 
-export const certificates = [
+export const achievements = [
   {
     id: 1,
     title: "Research Internship Certificate",
     issuer: "MNNIT Allahabad",
     date: "July 2025",
-    description: "Completed the Research Internship, covering real time project on AI/Ml and integrate on IOT, based device and advanced patterns.",
+    description:
+      "Completed the Research Internship, covering a real-time project on AI/ML and integrating it into an IoT-based device with advanced patterns.",
     link: "https://drive.google.com/file/d/1EAYxqpVxW_ORKiKHjeCwp_dEICyJ3baA/view?usp=drivesdk"
   },
   {
@@ -302,16 +303,17 @@ export const certificates = [
     title: "AI Tools Workshop",
     issuer: "Be10x",
     date: "January 2025",
-    description: "Earned the AI tools and ChatGpt Certified by Be10x, covering various AI tools and their applications.",
+    description:
+      "Earned the AI Tools and ChatGPT Certification by Be10x, covering various AI tools and their applications.",
     link: "https://drive.google.com/file/d/1ip08N5vn1dLQ640JMgfXpuXcS9IIxRzH/view?usp=drivesdk"
   },
-  // Add more certificates as needed
   {
     id: 3,
     title: "Coders Hunt Quiz",
     issuer: "Digi Coders",
     date: "March 2025",
-    description: "For successful participation in the quiz organised by the digicoders Technologies .",
+    description:
+      "Successfully participated in the quiz organised by DigiCoders Technologies.",
     link: "https://drive.google.com/file/d/1iiIPCqeV9mDQBkrxhNawZtwysk_zL6Gp/view?usp=drivesdk"
   },
   {
@@ -319,10 +321,13 @@ export const certificates = [
     title: "Solution Architect (AWS Certified)",
     issuer: "Forage",
     date: "December 2024",
-    description: "Design the simple, scalable, hosting architecture using AWS.",
+    description:
+      "Designed a simple, scalable hosting architecture using AWS.",
     link: "https://drive.google.com/file/d/1ipCuB88h9R1BEjpxbV3NMxUkv5bWbiAo/view?usp=drivesdk"
-  },
-
+  }
+  // Add more achievements if needed
 ];
+
+
 // ...existing code...
 
